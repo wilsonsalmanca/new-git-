@@ -25,11 +25,11 @@ body {
     width: 90% ;
 }
 
-.logo img { 
+.logo { 
     width: 60px;
 }
 
-.logo a {
+.logo__title {
     text-decoration: none;
     color: #fff;
     font-size: 50px;
@@ -187,11 +187,11 @@ body {
         width: 95% ;
     }
 
-    .logo img { 
+    .logo { 
         width: 40px;
     }
 
-    .logo a {
+    .logo__title {
         font-size: 40px;
     }
 
